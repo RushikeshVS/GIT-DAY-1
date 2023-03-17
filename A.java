@@ -4,6 +4,10 @@ public static void main(String args[])
 {
 public void m1()
 {
-system.out.println("hello github");
+system.out.println("Namste India");
+}
+public void m2()
+{
+system.out.println("Welcome To Coding World");
 }
 }

@@ -6,8 +6,4 @@ public void m1()
 {
 system.out.println("Namste India");
 }
-public void m2()
-{
-system.out.println("Welcome To Coding World");
-}
 }

@@ -10,3 +10,7 @@ public void m3
 System.out.printlb("For Bug 2")
 }
 
+public void m2
+{
+System.out.printlb("For Bug 1")
+}

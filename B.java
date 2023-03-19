@@ -5,4 +5,10 @@ Public class Test
     System.out.println("Welcome Rushikesh..");
     
   }
+
+--------------------------------------------------------------------
+public B()
+{
+  System.out.println("Rushikesh code");
+}
 }

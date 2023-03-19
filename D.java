@@ -1,23 +1,8 @@
 Public class Test
 {
-  public static void main(String args[])
-  {
-    System.out.println("New Code");
 
-<<<<<<< Updated upstream
-For Second Bug
+public void m1
 {
-    System.out.println("New Code");
-  
-} 
-=======
-    Self stash Concept
-  {
-    AAAAAAAAAAAAAAAAAA
-    BBBBBBBBBBBBBBBBBBBB
-    CCCCCCCCCCC
-
-    
-  }
->>>>>>> Stashed changes
+System.out.printlb("m1")
 }
+
